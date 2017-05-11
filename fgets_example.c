@@ -1,3 +1,7 @@
+/*
+  fgets_example.c
+*/
+
 #include <stdio.h>
 
 int main()
