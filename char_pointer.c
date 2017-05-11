@@ -1,3 +1,7 @@
+/*
+    char_pointer.c
+*/
+
 #include <stdio.h>
 #define MAX 20
 
